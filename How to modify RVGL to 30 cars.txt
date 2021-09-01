@@ -65,7 +65,3 @@ jmp 0x44AE70
 
 The cmp and jne instructions was the 2 that was deleted after creation of first jmp. The last jmp returns to the instruction 0044AE70, so the code continues normally. That's it!
 
-================================
-== PART 2: More than 30 cars. ==
-================================
-
